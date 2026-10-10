@@ -1,6 +1,6 @@
 # Stack
 
-![Stack](docs/brand/logo.png)
+![Stack](docs/brand/profile-panel.png)
 
 **An iOS project exploring simpler crypto onboarding and portfolio discovery.**
 
