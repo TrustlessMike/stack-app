@@ -21,3 +21,7 @@ production investing are product goals, not verified working features.
 - Wallet sign-in experiments on testnet.
 
 No App Store release or production financial service is announced here.
+
+## Source code
+
+The canonical private source repository is [Stack-source](https://github.com/TrustlessMike/Stack-source), with `ios/`, `web/`, and `website/` components. Former source repositories are deprecated archives; all original branches are retained as legacy tags. Access requires repository permission.
